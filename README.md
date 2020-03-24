@@ -19,5 +19,5 @@ The basic and fascinating idea of GoL is to show the amount of complexity genera
 This GoL is implemented using HTML CSS and JavaScript. It is based on [this work](http://pmav.eu/)
 
 <p align="center">
-  <img src="assets/img/readme.png" width="700" title="Game of life">
+  <img src="assets/img/readme.PNG" width="700" title="Game of life">
 </p>
